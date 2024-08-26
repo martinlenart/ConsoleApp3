@@ -12,3 +12,4 @@ c:\Users\Martin\Development\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\re
 c:\Users\Martin\Development\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.pdb
 c:\Users\Martin\Development\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.genruntimeconfig.cache
 c:\Users\Martin\Development\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ref\ConsoleApp3.dll
+c:\Users\Martin\Development\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.sourcelink.json
