@@ -3,3 +3,7 @@ Console.WriteLine("Hello, World!");
 int i = 3;
 int k = 4;
 System.Console.WriteLine(i*k);
+
+decimal d = 3.56M;
+decimal e = 2.54M;
+System.Console.WriteLine( d*e);
